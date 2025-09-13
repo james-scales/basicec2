@@ -4,7 +4,10 @@
 ### This repo contains homework to create an EC2 in AWS. I will soon add terraform files provisioning this resource.
 -----------------------------------------------
 ## SCREENSHOT
-![BASIC EC2 WEBPAGE](C:\Users\james\Documents\TheoWAF\class7\AWS\Homework\9.9.2025 Basic EC2\basicec2-screenshot.JPG)
+![BASIC EC2 WEBPAGE](/Users/james/Documents/TheoWAF/class7/AWS/Homework/9.9.2025 Basic EC2/basicec2-screenshot.JPG)
+![BASIC EC2 WEBPAGE](basicec2-screenshot.JPG)
+![BASIC EC2 WEBPAGE](https://github.com/james-scales/basicec2/blob/d4ac75f29d112ffd9e317641ffca06f331af2204/basicec2-screenshot.JPG)
+
 -----------------------------------------------
 # STEPS
 ## Creation Steps (all other options are default. DO NOT TOUCH!)
