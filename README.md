@@ -6,6 +6,9 @@
 ## SCREENSHOT
 ![BASIC EC2 WEBPAGE](basicec2-screenshot.JPG)
 
+## UPDATED EC2
+![UPDATED EC2 WEBPAGE](basicec2-updatedscript-screenshot.JPG)
+
 -----------------------------------------------
 # STEPS
 -----------------------------------------------
